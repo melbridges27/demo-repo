@@ -1,2 +1,2 @@
 # demo-repo
-Test description
+Updated description
